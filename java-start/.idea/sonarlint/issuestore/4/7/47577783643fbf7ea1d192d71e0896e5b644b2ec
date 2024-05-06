@@ -1,0 +1,22 @@
+
+|	java:S125"<This block of commented-out lines of code should be removed.(ã—àüÿÿÿÿJ$c795f7bf-b9ce-4b8e-b6b7-d2ebc220b238
+u
+java:S1854"9Remove this useless assignment to local variable "user3".(–êîÁJ$3eaed937-f3ef-4102-8c9b-ee43adaf08d3
+u
+java:S1854"9Remove this useless assignment to local variable "user2".(ğœä„J$1de0f475-d9f6-491b-92b9-00ded1293115
+u
+java:S1854"9Remove this useless assignment to local variable "user1".(²Ô­üJ$97e6b131-0f2b-4e5a-9b48-bcad44209b64
+t
+java:S1854"8Remove this useless assignment to local variable "user".(ò¼çÄJ$5220484b-57ed-4369-a135-dadc722f568c
+y
+java:S1854"8Remove this useless assignment to local variable "data".(Ú¢ö·ıÿÿÿÿJ$726d94ff-1731-4266-bce7-0747b722e513
+j
+java:S1481")Remove this unused "data" local variable.(Ú¢ö·ıÿÿÿÿJ$397554a8-ce72-4db6-a692-e963308ff75b
+e
+java:S1481")Remove this unused "user" local variable.(ò¼çÄJ$a438627e-cd76-4479-a48d-25419dbacc28
+f
+java:S1481"*Remove this unused "user1" local variable.(²Ô­üJ$bbfbc655-d641-4bbd-b8a0-b9e1ad17ea6a
+f
+java:S1481"*Remove this unused "user2" local variable.(ğœä„J$2b470d44-2366-4de8-9d66-bfbf6340a9e2
+f
+java:S1481"*Remove this unused "user3" local variable.(–êîÁJ$3bdf2819-5f26-44f9-854e-25abb175afe4

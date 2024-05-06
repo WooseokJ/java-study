@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡“í†ýÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(í°¿óþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(€±òÝýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(š—²Ëûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¬Ðé¸ýÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(š€«Êúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(š€«Êúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(é³½¶

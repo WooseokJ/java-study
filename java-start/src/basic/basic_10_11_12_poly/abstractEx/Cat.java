@@ -1,0 +1,13 @@
+package basic.basic_10_11_12_poly.abstractEx;
+
+public class Cat extends AbstractAnimal{
+    @Override
+    public void sound() {
+        System.out.println("고양이 울음");
+    }
+
+    @Override
+    public void move() {
+        System.out.println("고양이 이동");
+    }
+}
