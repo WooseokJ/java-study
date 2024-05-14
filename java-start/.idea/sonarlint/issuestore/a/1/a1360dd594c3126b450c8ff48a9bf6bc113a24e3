@@ -1,0 +1,5 @@
+
+è
+java:S1598"¦This file "BackAccountMain.java" should be located in "b_6_access/b" directory, not in "/Users/wooseokcho/Desktop/backEnd/java/java-start/src/basic/basic_6_access/b".(ÒŸºÏùÿÿÿÿJ$efb1f923-958a-45c9-b695-68efbcbb29ad
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒŸºÏùÿÿÿÿJ$70f57a51-4008-400b-8c16-90c2be1cd50f
+k	java:S106"+Replace this use of System.out by a logger.(—Ò©úÿÿÿÿJ$6836a8bc-d2d2-46cf-ae17-ef8035e9b13c

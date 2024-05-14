@@ -1,22 +1,0 @@
-
-V	java:S125"<This block of commented-out lines of code should be removed.(ã—àüÿÿÿÿ
-O
-java:S1854"9Remove this useless assignment to local variable "user3".(–êîÁ
-O
-java:S1854"9Remove this useless assignment to local variable "user2".(ğœä„
-O
-java:S1854"9Remove this useless assignment to local variable "user1".(²Ô­ü
-N
-java:S1854"8Remove this useless assignment to local variable "user".(ò¼çÄ
-S
-java:S1854"8Remove this useless assignment to local variable "data".(Ú¢ö·ıÿÿÿÿ
-D
-java:S1481")Remove this unused "data" local variable.(Ú¢ö·ıÿÿÿÿ
-?
-java:S1481")Remove this unused "user" local variable.(ò¼çÄ
-@
-java:S1481"*Remove this unused "user1" local variable.(²Ô­ü
-@
-java:S1481"*Remove this unused "user2" local variable.(ğœä„
-@
-java:S1481"*Remove this unused "user3" local variable.(–êîÁ

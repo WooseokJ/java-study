@@ -1,12 +1,12 @@
 
 Œ
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾J$d7293351-50c1-4abd-9778-22363477ef0d
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾J$04c61449-8448-4fde-bd9d-214ef09a69c2
 ’
-java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(†Í˜ÅıÿÿÿÿJ$f19b5af8-7e4b-41d3-955d-52ae4b6810ec
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(†Í˜ÅıÿÿÿÿJ$94dc3e1b-38d4-43c2-88a0-90b41ad29a92
 ˜
-java:S1104"WMake countStatic a static final constant or non-public and provide accessors if needed.(•İ¥ÿÿÿÿÿJ$7f42f870-af20-45ff-aee0-f0447465a443
+java:S1104"WMake countStatic a static final constant or non-public and provide accessors if needed.(•İ¥ÿÿÿÿÿJ$3487d4ea-6c61-43a4-a8a3-fe43c5f94bcc
 r
-java:S1444"1Make this "public static countStatic" field final(•İ¥ÿÿÿÿÿJ$7085aa42-66cc-4770-b9d2-99e0094f6add
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óçĞşÿÿÿÿJ$7a04c334-b098-4434-862b-6f45a133d1f3
+java:S1444"1Make this "public static countStatic" field final(•İ¥ÿÿÿÿÿJ$e74d1844-cb9a-4390-bd47-cb18d26ded71
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óçĞşÿÿÿÿJ$63021608-3662-4e0b-97fc-473a3cdc21ea
 †
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(•İ¥ÿÿÿÿÿJ$9c618a58-d64e-4aa7-965c-e07145da58d9
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(•İ¥ÿÿÿÿÿJ$57685de8-ba8e-49b6-bc50-24b5e36adc8f

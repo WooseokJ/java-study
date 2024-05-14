@@ -4,6 +4,8 @@ package basic.basic_5_1_pack;
 //import pack.p.User;
 // User2를 호출하려면 또 import pack.p.User2; 해줘야해 -> 한방에 해결
 
+import basic.basic_5_1_pack.a.User;
+
 public class PackageMain {
 
     /**
@@ -22,13 +24,14 @@ public class PackageMain {
 
         Data data = new Data(); // Data, PackageMain은 pack 이라는 같은 패키지
         // User를 생성하려면
-        b_5_pack.p.User user = new b_5_pack.p.User(); //  packageMain, User는 다른패키지 이므로 전체경로 포함해서 클래스 적어줘야해.
-        // import 를 통해 가져옴.(짧게 사용) import pack.p.User
-        User user1 = new User();
+
+        User user = new User();//  packageMain, User는 다른패키지 이므로 전체경로 포함해서 클래스 적어줘야해.
+// import 를 통해 가져옴.(짧게 사용) import pack.p.User
+        User user1 = user;
 
         //만약 pack.a.User, pack.p.User를 구분할수있다.
-        User user2 = new User(); //
-        b_5_pack.a.User user3 = new b_5_pack.a.User(); // 만약 클래스 이름이 같으면 둘중하나는 어쩔수없이 전체 경로 써줘야해
+        User user2 = user; //
+        User user3 = new User(); // 만약 클래스 이름이 같으면 둘중하나는 어쩔수없이 전체 경로 써줘야해
 
 
         /*패키지의 규칙

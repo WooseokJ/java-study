@@ -1,18 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªŒ§ÿÿÿÿÿ
-M
-java:S1854"7Remove this useless assignment to local variable "dc2".(„¶ÚŒ
-R
-java:S1854"7Remove this useless assignment to local variable "dc1".(¢­éÏûÿÿÿÿ
-K
-java:S1854"6Remove this useless assignment to local variable "pc".(¹Îók
-<
-java:S1481"'Remove this unused "pc" local variable.(¹Îók
-C
-java:S1481"(Remove this unused "dc1" local variable.(¢­éÏûÿÿÿÿ
->
-java:S1481"(Remove this unused "dc2" local variable.(„¶ÚŒ
-X
-java:S2094"BRemove this empty class, write its code or make it an "interface".(¦áÜÍ
-W
-java:S2094"BRemove this empty class, write its code or make it an "interface".(»â¥X

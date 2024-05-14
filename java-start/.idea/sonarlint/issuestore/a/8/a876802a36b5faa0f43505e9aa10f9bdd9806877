@@ -1,0 +1,15 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ρ©¬J$b87615ad-7da9-42f7-9657-45e782fbcd95
+~
+java:S1854"6Remove this useless assignment to local variable "n3".(³ΰφτωÿÿÿÿ8Έ ‘³χ1J$809ee7c2-b608-4c8f-81ff-c6d5b3d4af24
+y
+java:S1854"6Remove this useless assignment to local variable "n2".(§°Σ8΅³χ1J$0dff7f0c-6e8c-4324-b25e-ee7bed394e59
+~
+java:S1854"6Remove this useless assignment to local variable "n1".(τ³Ά¨ωÿÿÿÿ8΅³χ1J$043f4b4d-e6a4-4a12-84b7-a27609ac70c8
+m	java:S106	"+Replace this use of System.out by a logger.(Ò“ό¦8Α³χ1J$bbe35bce-68b7-41a8-baf9-39b38f0fb7f9
+o
+java:S1481"'Remove this unused "n1" local variable.(τ³Ά¨ωÿÿÿÿ8¤³χ1J$2176a65b-ac1b-464a-aa09-28ab3ba8d8c7
+j
+java:S1481"'Remove this unused "n2" local variable.(§°Σ8¤³χ1J$43ea2da5-484c-451a-a888-17ed072317d5
+o
+java:S1481"'Remove this unused "n3" local variable.(³ΰφτωÿÿÿÿ8» ‘³χ1J$aa4ef00d-990c-42d7-8a1f-99b448ebcb19

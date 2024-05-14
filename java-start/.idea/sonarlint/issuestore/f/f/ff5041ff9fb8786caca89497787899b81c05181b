@@ -1,8 +1,0 @@
-
-r
-java:S1104"WMake publicField a static final constant or non-public and provide accessors if needed.(í‚²—ûÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªŒ§ÿÿÿÿÿ
-E	java:S106	"+Replace this use of System.out by a logger.(Šñµªùÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(øâØ˜
-@	java:S106"+Replace this use of System.out by a logger.(Á¤Ñâ
-E	java:S106"+Replace this use of System.out by a logger.(îÒ“İşÿÿÿÿ
