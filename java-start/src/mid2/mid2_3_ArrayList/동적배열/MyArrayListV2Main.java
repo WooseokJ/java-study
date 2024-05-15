@@ -1,4 +1,4 @@
-package mid2.mid2_3_ArrayList.리스트;
+package mid2.mid2_3_ArrayList.동적배열;
 
 public class MyArrayListV2Main {
     public static void main(String[] args) {

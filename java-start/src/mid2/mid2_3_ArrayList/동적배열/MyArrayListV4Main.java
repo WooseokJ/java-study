@@ -1,4 +1,6 @@
-package mid2.mid2_3_ArrayList.리스트;
+package mid2.mid2_3_ArrayList.동적배열;
+
+
 
 
 public class MyArrayListV4Main {
@@ -16,5 +18,6 @@ public class MyArrayListV4Main {
         ls2.add(2);
         Integer i = ls2.get(0);
         System.out.println(i);
+
     }
 }
