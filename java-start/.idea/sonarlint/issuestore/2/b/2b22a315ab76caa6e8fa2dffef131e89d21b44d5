@@ -1,0 +1,15 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÞ¼Ôúÿÿÿÿ8™“ýý÷1J$cc7be771-bd56-4e14-b816-1437057673d0
+ƒ	java:S125
+"<This block of commented-out lines of code should be removed.(‹ºÏ¬ùÿÿÿÿ8ž“ýý÷1J$8404256f-38e1-4db7-b7cd-ebda7e470e35
+m	java:S106"+Replace this use of System.out by a logger.(Ç÷³8ž“ýý÷1J$6c68a316-a505-489e-9317-ebdaab5857b5
+r	java:S106"+Replace this use of System.out by a logger.(–ßÆàýÿÿÿÿ8Ÿ“ýý÷1J$37d7597c-58b2-4f89-9a1e-ebf2e648fc2c
+r	java:S106"+Replace this use of System.out by a logger.(á·©³ûÿÿÿÿ8Ÿ“ýý÷1J$e47e478f-1029-48f2-ab15-a82199ad909a
+r	java:S106"+Replace this use of System.out by a logger.(ÀÆ®þÿÿÿÿ8Ÿ“ýý÷1J$5a828972-cba2-43d4-be05-4ae53eea6081
+m	java:S106"+Replace this use of System.out by a logger.(êô°ß8Ÿ“ýý÷1J$ac354fc6-8d1d-41c7-a8d6-1d3a13517a4d
+m	java:S106"+Replace this use of System.out by a logger.(®€’»8Ÿ“ýý÷1J$03ae6ffd-169c-4904-9fdf-8a5a349d106f
+r	java:S106"+Replace this use of System.out by a logger.(€£õûÿÿÿÿ8óÓþý÷1J$3e438452-870a-44f7-809c-7fae233545d4
+m	java:S106"+Replace this use of System.out by a logger.(´¨†ò8Üëþý÷1J$c298bc32-6c32-46c4-9db4-f7572bb79bb8
+r	java:S106"+Replace this use of System.out by a logger.(ð¹Ñ¬üÿÿÿÿ8ÙØ€þ÷1J$cbabcd71-6ff2-4dd1-aa15-7d179924db76
+s
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18 “ýý÷1J$60e587fd-841e-4e81-a1d4-9f0b10b87380

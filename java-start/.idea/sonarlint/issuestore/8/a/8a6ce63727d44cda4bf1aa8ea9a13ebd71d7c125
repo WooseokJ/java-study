@@ -1,0 +1,10 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÞ¼ÔúÿÿÿÿJ$4fd1c9dd-2b26-4212-aa19-ba297d87e329
+r	java:S106"+Replace this use of System.out by a logger.(ü»½øøÿÿÿÿ8ÆÙ¥þ÷1J$989d435f-cbd0-4285-90be-9dee7607be0c
+m	java:S106"+Replace this use of System.out by a logger.(ˆ±Ùþ8ÆÙ¥þ÷1J$8a9ca0ff-d37d-4c68-ace4-c81b41885965
+m	java:S106"+Replace this use of System.out by a logger.(ðÀœ—8ÆÙ¥þ÷1J$d8c4321f-0b4b-4935-988e-1c59bebc37b7
+m	java:S106"+Replace this use of System.out by a logger.(”†çš8ÇÙ¥þ÷1J$162ba350-a802-45c2-8021-7d79045d432e
+m	java:S106"+Replace this use of System.out by a logger.(…»ØŒ8ÇÙ¥þ÷1J$eb3e0b38-9e2b-4e54-b230-39a7be823486
+r	java:S106"+Replace this use of System.out by a logger.(ð¹Ñ¬üÿÿÿÿ8ÇÙ¥þ÷1J$b0d9c557-c1c8-440d-972b-2543c6bd602e
+s
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18äÓ¦þ÷1J$e95bc46b-a59c-40c9-8965-a948d3cd046a

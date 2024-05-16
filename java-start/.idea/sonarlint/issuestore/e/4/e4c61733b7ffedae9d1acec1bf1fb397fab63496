@@ -1,0 +1,15 @@
+
+—
+java:S1192"ODefine a constant instead of duplicating this literal "stack.pop() = " 3 times.(èµ¾óûÿÿÿÿ8Éú´ı÷1J$9d4a6e28-3f83-4aa9-b860-f59f55051bd5
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÅ³ÿÿÿÿÿ8Êú´ı÷1J$0519a244-88ab-496c-a696-139b0455f962
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑØÕò8Êú´ı÷1J$ff228801-586e-4269-a4c9-cfb9d85ad9af
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8Ïú´ı÷1J$2dfa295a-248f-43b6-a74b-9ce89edf9b45
+r	java:S106"+Replace this use of System.out by a logger.(ÉÚÆûıÿÿÿÿ8Ñú´ı÷1J$8f50351b-db60-4c52-9f81-a0871a657df9
+r	java:S106"+Replace this use of System.out by a logger.(¼ŠÖ¸ÿÿÿÿÿ8Ñú´ı÷1J$4baec415-9de3-422a-983a-71c0f9847c67
+r	java:S106"+Replace this use of System.out by a logger.(èµ¾óûÿÿÿÿ8Ñú´ı÷1J$97b13d6f-3fff-4338-be37-cd46922f4c27
+r	java:S106"+Replace this use of System.out by a logger.(…§Ìõøÿÿÿÿ8Ñú´ı÷1J$f743db95-acea-458e-99d0-4d87f467ac6e
+m	java:S106"+Replace this use of System.out by a logger.(ıÈ‹¾8Ñú´ı÷1J$5ccc9de7-8ad8-40e4-bc23-80aa8fa6105e
+r	java:S106"+Replace this use of System.out by a logger.(¿ÕğÍÿÿÿÿÿ8Òú´ı÷1J$926cbd92-fbac-4107-9074-2546ca79082c
+s
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18Òú´ı÷1J$0bb307d8-6eb2-4a6d-a6a7-5192dd5a7307
