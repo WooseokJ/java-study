@@ -1,15 +1,15 @@
 
 —
-java:S1192"ODefine a constant instead of duplicating this literal "stack.pop() = " 3 times.(èµ¾óûÿÿÿÿ8Éú´ı÷1J$9d4a6e28-3f83-4aa9-b860-f59f55051bd5
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÅ³ÿÿÿÿÿ8Êú´ı÷1J$0519a244-88ab-496c-a696-139b0455f962
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑØÕò8Êú´ı÷1J$ff228801-586e-4269-a4c9-cfb9d85ad9af
+java:S1192"ODefine a constant instead of duplicating this literal "stack.pop() = " 3 times.(èµ¾óûÿÿÿÿ8Éú´ı÷1J$f8fcfc55-f9ff-4e96-b3ad-8f920d7c052a
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÅ³ÿÿÿÿÿ8Êú´ı÷1J$d5763929-f686-4a96-bcd4-62d32ce02ee6
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑØÕò8Êú´ı÷1J$f39f9288-12cd-4bd5-8dd2-4ed9a16404d7
 ˜
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8Ïú´ı÷1J$2dfa295a-248f-43b6-a74b-9ce89edf9b45
-r	java:S106"+Replace this use of System.out by a logger.(ÉÚÆûıÿÿÿÿ8Ñú´ı÷1J$8f50351b-db60-4c52-9f81-a0871a657df9
-r	java:S106"+Replace this use of System.out by a logger.(¼ŠÖ¸ÿÿÿÿÿ8Ñú´ı÷1J$4baec415-9de3-422a-983a-71c0f9847c67
-r	java:S106"+Replace this use of System.out by a logger.(èµ¾óûÿÿÿÿ8Ñú´ı÷1J$97b13d6f-3fff-4338-be37-cd46922f4c27
-r	java:S106"+Replace this use of System.out by a logger.(…§Ìõøÿÿÿÿ8Ñú´ı÷1J$f743db95-acea-458e-99d0-4d87f467ac6e
-m	java:S106"+Replace this use of System.out by a logger.(ıÈ‹¾8Ñú´ı÷1J$5ccc9de7-8ad8-40e4-bc23-80aa8fa6105e
-r	java:S106"+Replace this use of System.out by a logger.(¿ÕğÍÿÿÿÿÿ8Òú´ı÷1J$926cbd92-fbac-4107-9074-2546ca79082c
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8Ïú´ı÷1J$dbc6b242-9e93-457f-bd32-4ed1e05ebc28
+r	java:S106"+Replace this use of System.out by a logger.(ÉÚÆûıÿÿÿÿ8Ñú´ı÷1J$cfd37e50-2b76-4d39-a3fe-96901dee0dae
+r	java:S106"+Replace this use of System.out by a logger.(¼ŠÖ¸ÿÿÿÿÿ8Ñú´ı÷1J$bd54ee48-513d-43c6-b8c9-b1527b02c5ed
+r	java:S106"+Replace this use of System.out by a logger.(èµ¾óûÿÿÿÿ8Ñú´ı÷1J$22a7efa7-c1b3-422d-b34d-7589358bcea1
+r	java:S106"+Replace this use of System.out by a logger.(…§Ìõøÿÿÿÿ8Ñú´ı÷1J$a347920e-a779-44b2-8f35-28c3038977a5
+m	java:S106"+Replace this use of System.out by a logger.(ıÈ‹¾8Ñú´ı÷1J$20686890-a5b6-443f-83a5-35cfaa3e1187
+r	java:S106"+Replace this use of System.out by a logger.(¿ÕğÍÿÿÿÿÿ8Òú´ı÷1J$210c9464-6a25-4ba2-8705-60202573b54f
 s
-java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18Òú´ı÷1J$0bb307d8-6eb2-4a6d-a6a7-5192dd5a7307
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18Òú´ı÷1J$b2238ac3-0906-42fe-8c39-19a781602e1a

@@ -1,0 +1,15 @@
+
+
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ù®ä‚8¬ü²¯ø1J$679465c9-ff03-4540-ab31-82bc57a540f7
+„
+java:S4973("<Strings and Boxed types should be compared using "equals()".(æ©Í‡úÿÿÿÿ8¬ü²¯ø1J$0d079d57-d657-467c-86b9-ef84b58db89b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÉ¡‹ûÿÿÿÿ8¬ü²¯ø1J$68ca1735-25bc-4c74-a89d-f9409dda908c
+r	java:S106"+Replace this use of System.out by a logger.(ôˆá­øÿÿÿÿ8³ü²¯ø1J$c41629c9-c41c-476a-8b20-f493e86f6284
+m	java:S106"+Replace this use of System.out by a logger.(Ï€€±8´ü²¯ø1J$cf4fbdc7-23df-4eb4-8df1-e5c2e97dbc40
+m	java:S106"+Replace this use of System.out by a logger.(Ï€€±8µü²¯ø1J$d52573d7-f6bf-481b-bf49-7b86362c0906
+l	java:S106"+Replace this use of System.out by a logger.(ÇÇ38¶ü²¯ø1J$b7ad21df-296d-4082-896b-6e5b9ab44b3a
+‡
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ù®ä‚8¶ü²¯ø1J$28a5d1be-6a2c-4c59-80b2-e4c53fe06d2d
+l	java:S106'"+Replace this use of System.out by a logger.(ÇÇ38¾ë³¯ø1J$0ba8be65-6e53-46e7-b68a-3337c14fd6aa
+Œ
+java:S3358("DExtract this nested ternary operation into an independent statement.(æ©Í‡úÿÿÿÿ8·ü²¯ø1J$648366be-6eb3-487d-9c64-085c3d622e92
