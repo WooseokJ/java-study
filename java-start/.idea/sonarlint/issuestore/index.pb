@@ -77,3 +77,8 @@ m
 =src/mid2/mid2_10_순회정렬총정리/compare/SortMain3.java,b/f/bf74bab016f62709f52099b1f424988a15ea821a
 m
 =src/mid2/mid2_10_순회정렬총정리/compare/SortMain4.java,2/1/2159e79c70c9a7a61bd48866b454dc6d2655c9b1
+:
+
+src/a.java,4/1/415453a27e1d661cbcd390097e5e9def1df2f100
+m
+=src/mid2/mid2_10_순회정렬총정리/compare/SortMain5.java,f/a/fa9946943581ba8510553723e01d62f0df72074d
