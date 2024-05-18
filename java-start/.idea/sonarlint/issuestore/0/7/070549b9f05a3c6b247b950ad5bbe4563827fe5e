@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚çƒ½úÿÿÿÿJ$7f2fbbf7-7544-4cd7-b869-637f7e0fb431
+z
+java:S1854"7Remove this useless assignment to local variable "min".(êèãŠ8ôøÿÙø1J$57f95e25-4b0c-4a3d-86c6-fdee7311e3c1
+
+java:S1854"7Remove this useless assignment to local variable "max".(×ì¤¼şÿÿÿÿ8ôøÿÙø1J$2d247e77-ffa8-4361-85b9-42df622e0ac9
+p
+java:S1481"(Remove this unused "max" local variable.(×ì¤¼şÿÿÿÿ8öøÿÙø1J$0b1d822a-f014-4406-b4d1-ccb11512de08
+k
+java:S1481"(Remove this unused "min" local variable.(êèãŠ8÷øÿÙø1J$e2052908-41c3-4173-8c09-10ce2c9e0869
+m	java:S106"+Replace this use of System.out by a logger.(ÿ¯ÿÜ8‡¾‚Úø1J$77f1d40d-cec3-45c7-83ff-027114e851d0
+m	java:S106"+Replace this use of System.out by a logger.(›ºœæ8•Î‡Úø1J$d0c78268-d07f-435d-a0f6-d55e617c807c
+l	java:S106"+Replace this use of System.out by a logger.(ÑÔêZ8•Î‡Úø1J$ff46edb3-1e7b-47d9-8750-d549a6f0fb63
