@@ -1,29 +1,29 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ïÓ´øÿÿÿÿ8Øæå°ø1J$bab62f30-ac59-43be-a33d-946d7126e126
-˜	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¼£Úøÿÿÿÿ8Ùæå°ø1J$e787e6ce-d506-4baa-8280-5e507b3d3bca
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¶çûùÿÿÿÿ8Ùæå°ø1J$4515d740-99c1-4625-898d-392f8a34e8d5
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ïÓ´øÿÿÿÿ8Ùæå°ø1J$9a94fee9-1620-4d9a-9683-c1a4a5c00665
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñø“ƒ8Ùæå°ø1J$b5a6a672-674b-423f-839c-7fa51bb10b41
-˜	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¼Ä‚şÿÿÿÿ8Ùæå°ø1J$b13554b4-d013-4766-bb9c-67f6e6dffbe2
-“	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŞê8Ùæå°ø1J$6154dffb-e7b2-4561-ae34-54a78d8feddd
-˜	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ó¯Òşÿÿÿÿ8Ùæå°ø1J$7d6f6f69-9956-4226-815d-ce125ecdf58e
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÃİ8Ùæå°ø1J$20a5ef6b-3b77-4d83-8b10-c819ee42d144
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ïÓ´øÿÿÿÿ8Øæå°ø1J$9bb8a2a0-315d-4f72-8fb9-09677847e900
+˜	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¼£Úøÿÿÿÿ8Ùæå°ø1J$9b1b10b1-14ab-4efb-856d-335915f9d1ce
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¶çûùÿÿÿÿ8Ùæå°ø1J$4f1ddfeb-6170-43df-9668-06379723327c
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ïÓ´øÿÿÿÿ8Ùæå°ø1J$f5d03b77-5240-4c61-a0b9-dee9586b2a85
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñø“ƒ8Ùæå°ø1J$f3a0bfab-7adb-44c9-9327-51164f32f363
+˜	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¼Ä‚şÿÿÿÿ8Ùæå°ø1J$75f369da-12f3-4300-9e07-36bf2d958267
+“	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŞê8Ùæå°ø1J$d9ea1084-9bb2-4511-a2b5-fd7ce2ec8e5b
+˜	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ó¯Òşÿÿÿÿ8Ùæå°ø1J$3a921fc9-2601-4983-b6cb-27fd47b9e49a
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÃİ8Ùæå°ø1J$576e7f2e-4aff-40c4-b27b-5269fc1605ac
 ]
-java:S1220""Move this file to a named package.8Úæå°ø1J$32c0902f-6910-4493-928c-10ccf91cef5b
+java:S1220""Move this file to a named package.8Úæå°ø1J$d031cd28-722b-4680-a694-490b6c7877e7
 
-java:S2184	"HCast one of the operands of this multiplication operation to a "double".(Ì¼£Úøÿÿÿÿ8Úæå°ø1J$7ba82e9c-d58a-493c-a925-e465da0c860f
+java:S2184	"HCast one of the operands of this multiplication operation to a "double".(Ì¼£Úøÿÿÿÿ8Úæå°ø1J$4fe39b73-cf95-4bf3-bab1-b8375e6e3189
 
-java:S2184"HCast one of the operands of this multiplication operation to a "double".(Á¶çûùÿÿÿÿ8Úæå°ø1J$7ef4aa5b-4ba0-4ae1-a1f2-45094928c165
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(Á¶çûùÿÿÿÿ8Úæå°ø1J$07e128e8-c811-4cee-b36d-f2cceba52e8a
 ‹
-java:S2184"HCast one of the operands of this multiplication operation to a "double".(ñø“ƒ8Úæå°ø1J$e5a4d187-b0bb-4cc7-b008-6fe38e8806df
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(ñø“ƒ8Úæå°ø1J$cbaac0e3-5a51-406f-ad5d-922185a740b0
 
-java:S2184!"HCast one of the operands of this multiplication operation to a "double".(ú¼Ä‚şÿÿÿÿ8Úæå°ø1J$6ebe27fa-132e-4433-adf3-a8e39bf2b95e
+java:S2184!"HCast one of the operands of this multiplication operation to a "double".(ú¼Ä‚şÿÿÿÿ8Úæå°ø1J$54f19b24-6de9-4315-9f65-014eaf17ef0c
 ‹
-java:S2184""HCast one of the operands of this multiplication operation to a "double".(ËŞê8Úæå°ø1J$60630b0a-65aa-4983-8aea-24d59a770532
+java:S2184""HCast one of the operands of this multiplication operation to a "double".(ËŞê8Úæå°ø1J$f53333a4-7526-4fb2-98fd-478770d1b170
 
-java:S2184'"HCast one of the operands of this multiplication operation to a "double".(±Ó¯Òşÿÿÿÿ8­ùè°ø1J$5e42c64a-2a5e-433a-81c9-b7056306da07
-r	java:S106"+Replace this use of System.out by a logger.(Ï’º›ıÿÿÿÿ8ßæå°ø1J$bb9bacc4-0c98-4944-b672-fc40e8b15ea0
-m	java:S106"+Replace this use of System.out by a logger.(¨ÈÖß8¢•ë°ø1J$3ab4df05-da88-4774-938b-5945655d4e57
-G	java:S106"+Replace this use of System.out by a logger.(¹‘Ñó8˜¢ò°ø1
-	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ş¯8àæå°ø1J$05f295ef-444f-446b-a1d5-ef7ee6cfa133
-	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ö§8áæå°ø1J$cc63ac82-a6ee-46bf-a726-633ea2fb8180
+java:S2184'"HCast one of the operands of this multiplication operation to a "double".(±Ó¯Òşÿÿÿÿ8­ùè°ø1J$c1d10e42-4abe-43c5-a185-89502a3632eb
+r	java:S106"+Replace this use of System.out by a logger.(Ï’º›ıÿÿÿÿ8ßæå°ø1J$81fbc743-b4c2-4247-87a6-ad30786d298e
+m	java:S106"+Replace this use of System.out by a logger.(¨ÈÖß8¢•ë°ø1J$e7e28d41-f952-4265-a89f-ac3d41880a37
+m	java:S106"+Replace this use of System.out by a logger.(¹‘Ñó8˜¢ò°ø1J$735a89d1-a064-4df2-b51c-52ff5040feb4
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ş¯8àæå°ø1J$978866af-52fd-4dc3-9ef0-cc8be4904379
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ö§8áæå°ø1J$867cdcf5-51d5-44b6-93e4-03476d033018

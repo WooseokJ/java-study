@@ -1,0 +1,11 @@
+
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ùJ$e5cafc81-f2b2-4965-850c-f98e36094dc0
+r	java:S106
+"+Replace this use of System.out by a logger.(Ç Çâøÿÿÿÿ8¨·í–ù1J$605dd639-c938-434d-991b-2788fe5dc602
+m	java:S106"+Replace this use of System.out by a logger.(æ¼š„8¨·í–ù1J$601186a3-2460-4ec3-b9dd-ce047116533c
+r	java:S106"+Replace this use of System.out by a logger.(‰éì½ûÿÿÿÿ8¨·í–ù1J$308fb815-8914-45ac-9821-722b61bd722d
+r	java:S106"+Replace this use of System.out by a logger.(–úºÕûÿÿÿÿ8²®î–ù1J$4cce7b32-9e26-4488-ad0a-0a0b0fcfc9ea
+m	java:S106"+Replace this use of System.out by a logger.(ç’¤™8éÊô–ù1J$47b06dd9-fd8b-4149-90b8-3fa73b6cb153
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(÷Äüœøÿÿÿÿ8€³û–ù1J$409f2a64-2c21-4ff1-a0f1-ecf9e1845813
+m	java:S106"+Replace this use of System.out by a logger.(ëÏŒİ8·Çı–ù1J$d53dd4fa-aab1-4151-ba45-276ada1db847
+~	java:S125"<This block of commented-out lines of code should be removed.(ëÏŒİ8·Çı–ù1J$bc2be055-a7d0-4948-bced-9653613a7671

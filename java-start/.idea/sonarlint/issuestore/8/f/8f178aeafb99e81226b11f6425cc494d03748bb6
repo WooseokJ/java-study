@@ -1,0 +1,21 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ù8›ö•ù1J$80e50e5f-a355-4ea3-ba3c-9c2f74ec33f0
+r	java:S106"+Replace this use of System.out by a logger.(¹¿¢øÿÿÿÿ8¡ö•ù1J$1fe00152-4d06-47a8-b7b7-4c0fd9eb703f
+r	java:S106	"+Replace this use of System.out by a logger.(œ¾½»ûÿÿÿÿ8¡ö•ù1J$1c1373f4-f87f-404f-bc51-0818b448c6fa
+r	java:S106
+"+Replace this use of System.out by a logger.(Šçü©øÿÿÿÿ8¡ö•ù1J$07c16517-4f11-4b94-8623-35eab5af4c8f
+m	java:S106"+Replace this use of System.out by a logger.(ó•©à8¡ö•ù1J$9bf90f02-3b02-4cca-bbb6-23397d4160f5
+m	java:S106"+Replace this use of System.out by a logger.(·Ë£8¡ö•ù1J$364717f1-2e89-4d37-a49b-22a1151b6c66
+r	java:S106"+Replace this use of System.out by a logger.(Ôìâèşÿÿÿÿ8¢ö•ù1J$29231e10-1374-4196-92cc-8353c9a51450
+m	java:S106"+Replace this use of System.out by a logger.(Ëòµá8¢ö•ù1J$112ea858-1418-4c46-95ea-5a30fcb5c45b
+r	java:S106"+Replace this use of System.out by a logger.(»òÛåùÿÿÿÿ8¢ö•ù1J$7516fe5c-3d93-4e31-b0b5-084c504fa58f
+r	java:S106"+Replace this use of System.out by a logger.(Ñ€è¾şÿÿÿÿ8¢ö•ù1J$97a1e4cb-2556-4699-b016-552d8061fd8d
+r	java:S106"+Replace this use of System.out by a logger.(òöĞ±üÿÿÿÿ8¢ö•ù1J$f7dbf883-5924-415c-b4c9-fa7be5f692c3
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ñ€è¾şÿÿÿÿ8£ö•ù1J$31dc8d15-318f-4599-b00c-86354a0fa256
+m	java:S106"+Replace this use of System.out by a logger.(´ï¡ã8ô¥÷•ù1J$7a5cf30c-1755-46d3-8751-ccd1e5244ed6
+m	java:S106 "+Replace this use of System.out by a logger.(øŞ’¾8ô¥÷•ù1J$fe89d01a-3dcb-4bf4-b2a8-011475f943b1
+r	java:S106#"+Replace this use of System.out by a logger.(Ñ€è¾şÿÿÿÿ8½Îş•ù1J$bdc5b21a-c12c-48c9-98d9-03e7b5af616d
+r	java:S106$"+Replace this use of System.out by a logger.(òöĞ±üÿÿÿÿ8½Îş•ù1J$ab9cc153-f198-4fa4-8a2e-530a4427cdff
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(Ñ€è¾şÿÿÿÿ8¾Îş•ù1J$95be5b3d-e90b-4bf9-8052-8a851a0e9833
+r	java:S106%"+Replace this use of System.out by a logger.(Óåİ¤øÿÿÿÿ8¾Îş•ù1J$31c10ce3-cc72-4014-8adb-2b5c4cf109db
+r	java:S106&"+Replace this use of System.out by a logger.(¼Ã¾™øÿÿÿÿ8¾Îş•ù1J$466249a6-466e-4215-acd9-437cf293db1f

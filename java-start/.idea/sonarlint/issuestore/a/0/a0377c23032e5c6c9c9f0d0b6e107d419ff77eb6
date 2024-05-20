@@ -1,0 +1,15 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öß™8åæ“•ù1J$5ecc22d8-7a21-4e62-9a7e-86ccd109ec0c
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿó¶ı8åæ“•ù1J$ba774afd-811a-4575-be23-e877ff5725d1
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ù8ææ“•ù1J$e64aef26-44ef-4e26-8839-125c006201e7
+m	java:S106	"+Replace this use of System.out by a logger.(Ã€×ô8îæ“•ù1J$ae110ece-a827-485f-9954-5194f242670d
+m	java:S106
+"+Replace this use of System.out by a logger.(õ¦«£8îæ“•ù1J$89379a73-9a7e-46fd-b6c4-3ddb514c0b15
+r	java:S106"+Replace this use of System.out by a logger.(Ç§û¶úÿÿÿÿ8îæ“•ù1J$af0754e1-c428-4890-bb27-ef89fef5aa3a
+m	java:S106"+Replace this use of System.out by a logger.(Øè–‚8îæ“•ù1J$1a78a965-91ef-4163-8999-8f3835ecae07
+m	java:S106"+Replace this use of System.out by a logger.(Íû©¥8îæ“•ù1J$88d01617-db1a-4224-9639-fb75400ba314
+m	java:S106"+Replace this use of System.out by a logger.(È¹Ö8ïæ“•ù1J$b81f5ae9-fa61-4c2e-afb5-10a730556b65
+m	java:S106"+Replace this use of System.out by a logger.(¼ùúĞ8¨š••ù1J$964a7b73-06f6-4de5-a6a6-87b3448f01d0
+r	java:S106"+Replace this use of System.out by a logger.(Ç¸İªúÿÿÿÿ8¨š••ù1J$98ab6b1f-64ee-4a5f-9b7d-5e972a67df27
+n
+java:S1905"&Remove this unnecessary cast to "int".(‡À«¿ÿÿÿÿÿ8ïæ“•ù1J$ce6c693e-bd97-4469-9f5e-13e488da5ab7

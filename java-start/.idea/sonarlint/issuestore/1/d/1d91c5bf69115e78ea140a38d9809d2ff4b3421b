@@ -1,16 +1,16 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚çƒ½úÿÿÿÿJ$b05d8fab-40f4-4eca-b2be-e393d447fcd9
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚çƒ½úÿÿÿÿJ$0d230b9b-7afd-49a4-aec5-3d144bfc16f5
 z
-java:S1854"7Remove this useless assignment to local variable "ls2".(Ì¶ó†8ÉÕ°Úø1J$ec1b13ed-ab09-40ba-9f5a-553a9208c5df
+java:S1854"7Remove this useless assignment to local variable "ls2".(Ì¶ó†8ÉÕ°Úø1J$964b8da5-be5f-42a1-87b9-4f5364eabad4
 ~
-java:S1854"6Remove this useless assignment to local variable "ls".(¶ôˆÜÿÿÿÿÿ8ÉÕ°Úø1J$8164a183-b0b9-454b-810b-d562ce887c5d
+java:S1854"6Remove this useless assignment to local variable "ls".(¶ôˆÜÿÿÿÿÿ8ÉÕ°Úø1J$5f73aa8b-c6d8-4f6c-b9bb-6beb019dfb9d
 o
-java:S1481"'Remove this unused "ls" local variable.(¶ôˆÜÿÿÿÿÿ8ËÕ°Úø1J$3667e646-926f-4edf-9ddf-a886c3abc78d
+java:S1481"'Remove this unused "ls" local variable.(¶ôˆÜÿÿÿÿÿ8ËÕ°Úø1J$4e5891df-44a1-4e59-b0b8-f29a6d6559c4
 k
-java:S1481"(Remove this unused "ls2" local variable.(Ì¶ó†8ËÕ°Úø1J$290d9f19-702b-427a-9cf1-2ff2db23a647
-m	java:S106"+Replace this use of System.out by a logger.(ëº°í8ç÷³Úø1J$57e46dd2-bcb9-4338-a56d-8bdbedffa457
-l	java:S106"+Replace this use of System.out by a logger.(åã¬8ç÷³Úø1J$0f453e2f-ec82-408b-ba80-a7c64197281f
-m	java:S106"+Replace this use of System.out by a logger.(’­Àõ8òÌµÚø1J$8822b83a-c37e-477e-9942-28d320d13c0c
-r	java:S106"+Replace this use of System.out by a logger.(—ìƒøüÿÿÿÿ8òÌµÚø1J$9a947d14-cc9e-4ecb-9a33-69331d8668cb
-m	java:S106"+Replace this use of System.out by a logger.(×Æáî8«ÛÚø1J$fb4bdb3d-bc74-4aeb-b017-c46d8d32a1fe
-m	java:S106"+Replace this use of System.out by a logger.(­³Ğ8«ÛÚø1J$4fe246d2-8146-48fa-8625-d466b2eff4ba
+java:S1481"(Remove this unused "ls2" local variable.(Ì¶ó†8ËÕ°Úø1J$4ce5bbd5-14e1-41bb-b3ec-c99c99461a74
+m	java:S106"+Replace this use of System.out by a logger.(ëº°í8ç÷³Úø1J$5e40b4c0-9521-46b9-8627-68cb1d260375
+l	java:S106"+Replace this use of System.out by a logger.(åã¬8ç÷³Úø1J$8d8c0a19-6437-4323-9e69-5ecf524bef6e
+m	java:S106"+Replace this use of System.out by a logger.(’­Àõ8òÌµÚø1J$be0d7511-77b7-4e71-8a8d-f22f6c1f9423
+r	java:S106"+Replace this use of System.out by a logger.(—ìƒøüÿÿÿÿ8òÌµÚø1J$1770492e-ddb5-4e82-bc71-6da6e5fc76c2
+m	java:S106"+Replace this use of System.out by a logger.(×Æáî8«ÛÚø1J$1a14dfe3-60a8-4afe-8ba6-d55eb638e923
+m	java:S106"+Replace this use of System.out by a logger.(­³Ğ8«ÛÚø1J$cf7d2faa-1788-4ffc-8572-bddfdc2df687
