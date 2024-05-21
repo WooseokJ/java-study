@@ -130,8 +130,6 @@ p
 @src/mid1/mid_4_래퍼클래스/wrapper/MyIntegerMethodMain0.java,c/c/cceb7296980a53c0f60e94e941e3bc3a90e78fee
 e
 5src/mid1/mid_4_래퍼클래스/wrapper/MyInteger.java,a/2/a2813368d8f43c89a2a3c63960ac1aa556a2ed8d
-o
-?src/mid1/mid_4_래퍼클래스/wrapper/MyIntegerMethodMain.java,4/e/4e884f4b885b59861dec6bde296751745cd5077d
 p
 @src/mid1/mid_4_래퍼클래스/wrapper/MyIntegerMethodMain1.java,b/b/bb28e1b75e19c99997b2b3666cac47660a8a3fe7
 n
@@ -148,8 +146,6 @@ n
 >src/mid1/mid_4_래퍼클래스/wrapper/WrapperVsPrimitive.java,b/8/b89d4c55565dbc809a9d87328d4bc01174a58ce8
 a
 1src/mid1/mid_4_래퍼클래스/math/MathMain.java,e/1/e140cee7d5f2474eeb749f5c8be92b6443ae6745
-X
-(src/mid1/mid_3_String/CharArrayMain.java,a/e/aeb45a08ade240cfe5f05bd1a1f42c608ba25195
 Z
 *src/mid1/mid_3_String/StringBasicMain.java,2/8/2844e96d93a67b705197189364618b9fa7860c0b
 \
@@ -170,3 +166,59 @@ U
 %src/mid1/mid_3_String/ValueAdder.java,8/8/881ce19626349109b76bb52cde040e386d33759c
 ]
 -src/mid1/mid_3_String/MethodChainingMain.java,a/4/a4b480a872586c4496a6b34574cd93bcaf9a6281
+}
+Msrc/mid1/mid_7_8_중첩내부클래스/정적중첩클래스/NestedOuter.java,1/d/1d128dcd5c9bf7d3e40a01c5fbd7836a93f471a0
+�
+Qsrc/mid1/mid_7_8_중첩내부클래스/정적중첩클래스/NestedOuterMain.java,3/0/306098cbfddefe7a621805dbeea78c47196d7b48
+�
+Qsrc/mid1/mid_7_8_중첩내부클래스/정적중첩클래스/ex1/NetworkMain.java,e/7/e7cfccd62b10192ec942a939171f3876a8b619e7
+}
+Msrc/mid1/mid_7_8_중첩내부클래스/정적중첩클래스/ex1/Network.java,c/7/c74b16ea365e26476643c25c30b70d964d3889c6
+�
+Tsrc/mid1/mid_7_8_중첩내부클래스/정적중첩클래스/ex1/NetworkMessage.java,a/c/ac44bcceec421f7951a7d38a81493643e9a5e874
+}
+Msrc/mid1/mid_7_8_중첩내부클래스/정적중첩클래스/ex2/Network.java,6/5/65651f1912013c21c0d87e597fb17e84ffea8681
+�
+Qsrc/mid1/mid_7_8_중첩내부클래스/정적중첩클래스/ex2/NetworkMain.java,4/5/4530ef0366ba8754f14a32293f0bd8b8d0e2d155
+v
+Fsrc/mid1/mid_7_8_중첩내부클래스/내부클래스/InnerOuter.java,d/8/d882f7160a7229c5a700038c2d5a811d069a8637
+z
+Jsrc/mid1/mid_7_8_중첩내부클래스/내부클래스/InnerOuterMain.java,b/0/b0bba8db481e33eca8c797b02d7ed75c695b2856
+h
+8src/mid1/mid_7_8_중첩내부클래스/ShdowingMain.java,1/f/1fa1bb0698cac92426ec26c3590626ffc329aa86
+r
+Bsrc/mid1/mid_7_8_중첩내부클래스/내부클래스/Engine.java,a/6/a644121cfc78fc65a01c466f44a1704dcb2fca51
+o
+?src/mid1/mid_7_8_중첩내부클래스/내부클래스/Car.java,7/8/7820796916b032d1f7ab779582ca464a84a8089e
+s
+Csrc/mid1/mid_7_8_중첩내부클래스/내부클래스/CarMain.java,a/4/a487110709a7317e06f02469f48fde707db21eb4
+x
+Hsrc/mid1/mid_7_8_중첩내부클래스/지역클래스/LocalOuterV1.java,3/6/36bf94942ea346a0b8f231a5141cbc0ec3febf20
+x
+Hsrc/mid1/mid_7_8_중첩내부클래스/지역클래스/LocalOuterV2.java,6/e/6ec0bf512521038efe5cb0b61408414548e893cd
+s
+Csrc/mid1/mid_7_8_중첩내부클래스/지역클래스/Printer.java,5/0/506a72ee171e88f620f42db2940e01c5f87fe8d1
+x
+Hsrc/mid1/mid_7_8_중첩내부클래스/지역클래스/LocalOuterV3.java,1/1/11d17cab9a0b4c186077ed3fdc31fa3120194df1
+z
+Jsrc/mid1/mid_7_8_중첩내부클래스/익명클래스/annoymousouter.java,f/0/f040c1adecb1fa916cc6fb66d5cd3cf7fe2ebc2e
+w
+Gsrc/mid1/mid_7_8_중첩내부클래스/익명클래스/ex1/ex0Main.java,f/e/fe49cae666491a9b367bbcd4527f7aa858ab3643
+z
+Jsrc/mid1/mid_7_8_중첩내부클래스/익명클래스/ex1/ex1RefMain.java,1/6/16dca7ed73310863b41eb99f1e3e3ab7a6858f8a
+w
+Gsrc/mid1/mid_7_8_중첩내부클래스/익명클래스/ex2/ex2Main.java,d/f/dff35c62253e926a3b500aa732d4afb71c00eb4b
+w
+Gsrc/mid1/mid_7_8_중첩내부클래스/익명클래스/ex2/Process.java,d/d/ddf808b645f66423a4585e4e6d117af816a6ec3a
+y
+Isrc/mid1/mid_7_8_중첩내부클래스/익명클래스/ex2/ex2MainV1.java,4/c/4c0c69be63c1160ec9bfa167e31ed4e039308859
+y
+Isrc/mid1/mid_7_8_중첩내부클래스/익명클래스/ex3/ex3MainV1.java,e/5/e551fe90d3894a0e1e83daa8b7a454840be675ef
+|
+Lsrc/mid1/mid_7_8_중첩내부클래스/익명클래스/ex1/ex1RefMainV1.java,a/5/a5109f7740474d60765e6bbee07c74559fcbc4a4
+y
+Isrc/mid1/mid_7_8_중첩내부클래스/익명클래스/ex2/ex2MainV2.java,b/9/b92ec6600261b8236af805416f00862779d2600d
+y
+Isrc/mid1/mid_7_8_중첩내부클래스/익명클래스/ex3/ex3MainV3.java,8/5/85d80f6bf7bb7698c02bdff79711f9cabc33a987
+|
+Lsrc/mid1/mid_7_8_중첩내부클래스/익명클래스/람다/ex4MainV4.java,4/3/4356af3dddb7b9742de356eda27ab25f7d8f6bc8

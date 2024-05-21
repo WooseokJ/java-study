@@ -1,0 +1,13 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ôı¸ûÿÿÿÿ8ÚÍôãù1J$41488afc-4a6f-4879-bb46-e27fbf247c3d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òƒíËúÿÿÿÿ8ÛÍôãù1J$7df5153f-831a-4dbc-92a2-412366fea0f7
+
+java:S4144"UUpdate this method so that its implementation is not identical to "hiDice" on line 9.(ÀÔğ²ıÿÿÿÿ8ãÍôãù1J$f36c87e8-505d-4585-a99f-9ef0a2015728
+m	java:S106
+"+Replace this use of System.out by a logger.(“ÇÅ—8ëÍôãù1J$45ad3f84-1d87-48a0-85f5-708abb053fdc
+m	java:S106"+Replace this use of System.out by a logger.(Ö¥¨¾8ìÍôãù1J$ac2e3ab0-6c56-4650-b6b0-3906532bf281
+m	java:S106"+Replace this use of System.out by a logger.(“ÇÅ—8íÍôãù1J$f54f9e84-9cfd-46d3-9e48-26f7aab12e89
+m	java:S106"+Replace this use of System.out by a logger.(Ö¥¨¾8íÍôãù1J$5197b2c9-269c-419f-b9f3-bddd3eba6b52
+}	java:S125"<This block of commented-out lines of code should be removed.(ÕÏ8ïÍôãù1J$373b629f-dfd8-4bb3-8c2a-44c5302d462a
+m	java:S1061"+Replace this use of System.out by a logger.(ŞÚë8ùÍôãù1J$a1fe240a-f37a-4a8a-9a77-4cadd7f59397
+r	java:S1069"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8úÍôãù1J$96994f3c-120e-476f-af32-cefbe1b69f48

@@ -1,0 +1,8 @@
+
+§
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "printer".(ã¡¨óûÿÿÿÿ8¤½æâù1J$296dbc6d-8cb0-4079-a519-972596acdcaf
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âí¾ûÿÿÿÿ8¥½æâù1J$1a3b5c01-b12c-4c7b-baa6-1dd837235aef
+r	java:S106"+Replace this use of System.out by a logger.(³ßëœüÿÿÿÿ8¬½æâù1J$c1cb48dc-95d8-4903-afb8-b3d0ade1218a
+m	java:S106"+Replace this use of System.out by a logger.(´÷±Ë8¬½æâù1J$ddf42a61-2965-4987-87ab-417f06fc25ed
+m	java:S106"+Replace this use of System.out by a logger.(•û¾8¬½æâù1J$1aeb8ed6-a995-4327-bc84-9359d5c1bebc
+m	java:S106"+Replace this use of System.out by a logger.(ï‰ß»8¬½æâù1J$cce13e9b-f475-420e-a1d6-c6fef276cd01

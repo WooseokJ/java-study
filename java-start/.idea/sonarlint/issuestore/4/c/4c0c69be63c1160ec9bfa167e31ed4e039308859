@@ -1,0 +1,14 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÈîÑ²ÿÿÿÿÿJ$10347063-8b6f-49d1-b26c-1d4a63a60c36
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎÉ¤;J$2b394cef-6f2a-4241-ac6b-22f99d8b5e5d
+
+java:S4144"UUpdate this method so that its implementation is not identical to "hiDice" on line 7.(ÀÔğ²ıÿÿÿÿ8ã¦Åãù1J$5332d45a-78bf-4c82-bcad-55dc72fc65c2
+f	java:S106"+Replace this use of System.out by a logger.(“ÇÅ—J$94bc3d83-8b9e-4335-b09a-e15bacf55d35
+f	java:S106
+"+Replace this use of System.out by a logger.(Ö¥¨¾J$baccc4e8-7dc3-427b-a46a-09599607b3cc
+f	java:S106"+Replace this use of System.out by a logger.(“ÇÅ—J$1188142c-6942-4f4c-8451-7a47211f6bdd
+m	java:S106"+Replace this use of System.out by a logger.(Ö¥¨¾8ÄŸÁãù1J$59863219-e5d1-487c-b447-8d739598c441
+a
+java:S2119"Save and re-use this "Random".(Â¿Ã›8îÈÁãù1J$6254b28f-abfa-4256-96c6-f4f712ba1db7
+m	java:S106"+Replace this use of System.out by a logger.(ŞÚë8îÈÁãù1J$7230158e-43f2-4519-ad63-807376650848
+r	java:S106""+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ĞÂãù1J$afd653bd-4ac8-483b-a251-78aa6796d3e2

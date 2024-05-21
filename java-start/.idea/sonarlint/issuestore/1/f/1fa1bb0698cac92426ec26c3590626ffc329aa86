@@ -1,0 +1,11 @@
+
+—
+java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(ûÏŸàıÿÿÿÿ8š‡íáù1J$018dcc07-462e-4293-97c3-27df45e5497b
+’
+java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(ì“Ø„8›‡íáù1J$a6526c93-789b-4891-b977-e2cb3349245e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü˜8›‡íáù1J$57813f5a-3115-4de2-a3f6-0fb20d6cb740
+~
+java:S1117"6Rename "val" which hides the field declared at line 8.(•µ†ìûÿÿÿÿ8 ‡íáù1J$5133e3a4-a9f4-44ee-8eae-8abfaf59e9ca
+m	java:S106"+Replace this use of System.out by a logger.(ÕÇÈ“8 ‡íáù1J$88e56f50-350e-4fac-9ad0-e3ee3f959f5a
+m	java:S106"+Replace this use of System.out by a logger.(Å£›Ğ8 ‡íáù1J$27a16dec-b521-4a05-aaac-3436c987486c
+r	java:S106"+Replace this use of System.out by a logger.(èÕä¯ûÿÿÿÿ8¡‡íáù1J$5e1ab810-68ea-43ea-9b7a-9cc7370b73f1

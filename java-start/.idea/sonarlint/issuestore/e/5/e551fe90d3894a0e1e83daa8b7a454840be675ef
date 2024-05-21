@@ -1,0 +1,19 @@
+
+p
+java:S1604."(Make this anonymous inner class a lambda(—ΣΚ“ύÿÿÿÿ8ί΄άγω1J$8e115839-75c2-426c-8074-55eeffaae687
+p
+java:S16047"(Make this anonymous inner class a lambda(®ζΓιύÿÿÿÿ8ί΄άγω1J$84d63a50-200d-4f32-b580-7d30af3fe03a
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ώψ­ΐ8ί΄άγω1J$eeeb1433-4dcc-49d1-8de4-e61c4ab0a075
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ª–8ΰ΄άγω1J$b515198b-f56b-4b36-bbbd-64c22123efd7
+
+java:S4144"UUpdate this method so that its implementation is not identical to "hiDice" on line 9.(ΐΤπ²ύÿÿÿÿ8δ΄άγω1J$5d37788a-a4ba-4318-b985-8a6d91ee9e5b
+m	java:S106
+"+Replace this use of System.out by a logger.(“ΗΕ—8ζ΄άγω1J$0eb4b1ea-f6ec-4c11-9434-afa273fca197
+m	java:S106"+Replace this use of System.out by a logger.(Φ¥¨Ύ8ζ΄άγω1J$bc30041b-e999-4f3c-8bff-acdcaaa207a7
+m	java:S106"+Replace this use of System.out by a logger.(“ΗΕ—8η΄άγω1J$e8506fcd-2c2b-497c-a69b-a7f76169c125
+m	java:S106"+Replace this use of System.out by a logger.(Φ¥¨Ύ8η΄άγω1J$1aa9bdff-ae37-4188-ac96-9080dee0bd73
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(³λΖ»ϊÿÿÿÿ8η΄άγω1J$56ac04a9-0199-49c3-a37a-c7ff221883ab
+a
+java:S21192"Save and re-use this "Random".(ΒΏΓ›8ι΄άγω1J$5041e2ef-25d2-4339-ac0d-52d2bd16e765
+m	java:S1063"+Replace this use of System.out by a logger.(ήΪλ8ι΄άγω1J$2a448a46-e7b5-43e5-85e2-5f8819ffc4fc
+r	java:S106<"+Replace this use of System.out by a logger.(΄‹Ήφώÿÿÿÿ8κ΄άγω1J$9a450db3-76fa-4a8e-87b8-cbee675e72c2
