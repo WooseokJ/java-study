@@ -1,0 +1,13 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°‹ù÷ÿÿÿÿÿ8Õ™˜Îù1J$a19082b3-4b87-459a-8f12-f163bbcbb802
+i
+java:S1659"!Declare "end" on a separate line.(Øıèÿÿÿÿÿ8Ş™˜Îù1J$56b12b8a-7ff0-466a-9043-7197b4678d19
+e
+java:S1659""Declare "end2" on a separate line.(™éÔã8òû¢Îù1J$455948dd-5280-46aa-96e7-fc5a94074a20
+y
+java:S1481
+"1Remove this unused "sumPrimitive" local variable.(œç›ÿÿÿÿÿ8ß™˜Îù1J$e97d0f09-1ef6-458d-9eef-75134b571470
+r	java:S106"+Replace this use of System.out by a logger.(¶şçìúÿÿÿÿ8å™˜Îù1J$582c963c-ca52-4183-a96c-093a88eb28d2
+r
+java:S1481"/Remove this unused "sumWrapper" local variable.(ÎÌ”8æ™˜Îù1J$e420b654-bc9f-489d-bf5b-93407aa985c9
+m	java:S106"+Replace this use of System.out by a logger.(±‘Ûù8ç™˜Îù1J$c4a227d5-de93-4843-9918-fd0d545d39de

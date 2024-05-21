@@ -1,0 +1,34 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦–İÏÿÿÿÿÿ8Ì¯šÑù1J$a61b99de-59c3-4e79-b32e-04aac3a0b352
+{
+java:S1854"8Remove this useless assignment to local variable "str3".(³…äÒ8Ñ¯šÑù1J$1877fdc1-299b-4d41-a613-d0fe8c9e66e7
+r	java:S106"+Replace this use of System.out by a logger.(¯Ä«Şıÿÿÿÿ8Ò¯šÑù1J$dffef848-1fc8-44f1-b86f-ff3ff2906b28
+m	java:S106"+Replace this use of System.out by a logger.(¢†¤Ò8Ò¯šÑù1J$a8b75640-5006-4d6c-a938-af2595bb19db
+m	java:S106	"+Replace this use of System.out by a logger.(İ‚Ú8Ò¯šÑù1J$76c97a0d-7b49-4dc9-8a13-9110dfb72496
+m	java:S106
+"+Replace this use of System.out by a logger.(îº¡ì8Ò¯šÑù1J$b083dd78-ebe6-4635-8582-096c20239f23
+r	java:S106"+Replace this use of System.out by a logger.(š¿üÄúÿÿÿÿ8Ò¯šÑù1J$fec19b3b-c012-42f8-b9be-86968e43bddd
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ò¯šÑù1J$229df0e0-787f-48fd-9d98-ff23aa73052d
+l
+java:S1481")Remove this unused "str3" local variable.(³…äÒ8Ó¯šÑù1J$6771ae6b-53ba-4151-9f80-d9b61a9dbf2c
+m	java:S106"+Replace this use of System.out by a logger.(ò›Ô8Ó¯šÑù1J$33ed4ebb-f25f-4733-a21d-d52890d9ff2c
+r	java:S106"+Replace this use of System.out by a logger.(áÈê’ùÿÿÿÿ8Ó¯šÑù1J$5a03dd9a-a9a1-4c49-a180-249db49889c6
+m	java:S106"+Replace this use of System.out by a logger.(ï—ì 8Ó¯šÑù1J$b3508802-4f24-4da6-8acc-e0dae9a420b9
+_
+java:S1116"Remove this empty statement.(ï—ì 8Ó¯šÑù1J$885527aa-e781-4bfb-900e-a03118d55122
+r	java:S106"+Replace this use of System.out by a logger.(»‚½ıÿÿÿÿ8Ó¯šÑù1J$53ea7c3e-c969-4003-9afa-3a6fcfa385c0
+d
+java:S1116"Remove this empty statement.(»‚½ıÿÿÿÿ8Ô¯šÑù1J$dea3211e-6325-4782-bee7-24f67dd0f11f
+r	java:S106"+Replace this use of System.out by a logger.(ÓÍïùÿÿÿÿ8Ô¯šÑù1J$e7ea67bb-df38-45bd-96c4-9467d3708bb6
+d
+java:S1116"Remove this empty statement.(ÓÍïùÿÿÿÿ8Ô¯šÑù1J$2a5904e1-2d77-4e7c-b894-8969115fa0a6
+l	java:S106"+Replace this use of System.out by a logger.(ìŠ”	8Ô¯šÑù1J$f2db8d7d-b0ae-44c5-a4e0-aa0b16169e94
+m	java:S106"+Replace this use of System.out by a logger.(¾ª€º8Ô¯šÑù1J$ce9829a2-cb20-4232-a55b-def833e3b974
+r	java:S106"+Replace this use of System.out by a logger.(™«§Äüÿÿÿÿ8Ô¯šÑù1J$cd1ce5d9-3b75-4586-9437-dd25a59182ff
+r	java:S106"+Replace this use of System.out by a logger.( ÆŠìüÿÿÿÿ8Ô¯šÑù1J$e3623a65-04b6-460f-9b7a-32098a75dacf
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ô¯šÑù1J$9c63a56f-7291-4e32-9694-3037f9945ec7
+m	java:S106""+Replace this use of System.out by a logger.(Àˆô‚8Õ¯šÑù1J$cfff86b2-9301-43f2-b190-6325947d1355
+m	java:S106#"+Replace this use of System.out by a logger.(•éÒû8øÅšÑù1J$11cb18f6-61e1-465e-aeb5-3c25b4f7a65a
+~	java:S125""<This block of commented-out lines of code should be removed.(Àˆô‚8Õ¯šÑù1J$31f7f3f6-1cc0-48df-a603-39b0742e9eea
+r	java:S106$"+Replace this use of System.out by a logger.(ûâ‚ûÿÿÿÿ8ƒÿœÑù1J$27df3b20-55db-45a8-a292-e803e26dbc47
+m	java:S106%"+Replace this use of System.out by a logger.(…¹ö”8äŠ Ñù1J$712e91b1-9d4e-4f0f-a454-428fff7f940e

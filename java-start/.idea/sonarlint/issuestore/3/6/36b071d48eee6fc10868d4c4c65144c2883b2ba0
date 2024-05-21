@@ -1,0 +1,23 @@
+
+_
+java:S1643%"Use a StringBuilder instead.(Ò½ÄÆ8ÆïËÑù1J$6b18a25e-4c59-41b0-be1c-81f000babf5b
+_
+java:S1643'"Use a StringBuilder instead.(Œ©·Í8ÆïËÑù1J$1ebcfbd8-7d0f-46e2-af4e-42810332857c
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦–İÏÿÿÿÿÿ8ÇïËÑù1J$4a3d0606-5903-44cb-9d0f-0501cc51ef2e
+m	java:S106"+Replace this use of System.out by a logger.(«çÙ8ÎïËÑù1J$b7b6c7e1-a989-4cca-9aff-74ce2f0b524e
+r	java:S106"+Replace this use of System.out by a logger.(•½¢§üÿÿÿÿ8ÎïËÑù1J$12da107c-249b-4c74-9e3e-c8800e319914
+l	java:S106	"+Replace this use of System.out by a logger.(Ÿ×m8ÎïËÑù1J$8487fc50-7bb4-4565-bd42-1bafbbb54c7d
+m	java:S106
+"+Replace this use of System.out by a logger.(øëÜ¦8ÏïËÑù1J$120e3d3e-7bf2-4a94-90a2-8ae5dea7a398
+l	java:S106"+Replace this use of System.out by a logger.(Æı¬;8ÏïËÑù1J$de290fde-d9b3-4ba0-8517-b4cef6c51533
+r	java:S106"+Replace this use of System.out by a logger.(ÂÜº‹øÿÿÿÿ8ÏïËÑù1J$8f28d3b3-8a71-4feb-8ce1-c3ea9ff38db0
+m	java:S106"+Replace this use of System.out by a logger.(¿İÛá8ÏïËÑù1J$faf04daf-2557-43a3-a89e-064a4c2a7316
+m	java:S106"+Replace this use of System.out by a logger.(ÌÓî—8ÏïËÑù1J$e7e67163-464f-4d31-8914-bf61b8948bd6
+l	java:S106"+Replace this use of System.out by a logger.(Ïñ°8ÏïËÑù1J$e49a72d6-a995-4281-808a-164435d6b687
+l	java:S106"+Replace this use of System.out by a logger.(ÏÈÑ8ĞïËÑù1J$e9f3df40-fa46-46d0-a89e-dbeaf33642b9
+m	java:S106"+Replace this use of System.out by a logger.(ÄÌş§8ĞïËÑù1J$8810108f-338a-4dc5-8369-f8ea32b57f50
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ĞïËÑù1J$6874baab-bc64-45a3-8ab6-554d81719f10
+r	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8ĞïËÑù1J$673e85e9-b2f6-4882-a844-bd6b7bc2b911
+m	java:S106*"+Replace this use of System.out by a logger.(äÃíë8ĞïËÑù1J$b49df64f-ff79-420f-8e14-0d0f342cc36c
+m	java:S106."+Replace this use of System.out by a logger.(½…è€8ÑïËÑù1J$175ec8ea-134c-4397-98f5-651a416aa2a7
+m	java:S1061"+Replace this use of System.out by a logger.(ÿÓ÷å8¦ˆÍÑù1J$b8c5dea8-15cd-4c04-ae0a-5b74d0c4b116

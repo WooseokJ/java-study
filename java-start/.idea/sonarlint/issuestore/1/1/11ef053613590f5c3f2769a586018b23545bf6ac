@@ -1,0 +1,21 @@
+
+
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ïšõ8‘Í·Íù1J$5905fa43-5e9c-4f45-a2f8-260f0a9d1da4
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Íñ„Òüÿÿÿÿ8ƒ¸»Íù1J$c32c3087-e26f-426e-80ec-ab27840e3a16
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°‹ù÷ÿÿÿÿÿJ$ba43524e-a0e2-4c0c-aa83-8ae39eeff382
+y
+java:S1854"6Remove this useless assignment to local variable "l1".(‰…¢8õ»¶Íù1J$f9fff204-2eac-44c6-abde-f9f8d45653b1
+i
+java:S2129"!Remove this "Integer" constructor(ïÊ¨üüÿÿÿÿ8 ‘«Íù1J$d2b93cc9-757d-45bc-97d4-4628856503cf
+
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ïÊ¨üüÿÿÿÿ8£‘«Íù1J$37bb87d8-3422-4eb4-9b52-fb99cd66f599
+m	java:S106	"+Replace this use of System.out by a logger.(ï¼’“8øù«Íù1J$90b9b475-3c21-4c41-b716-b59a141565b4
+m	java:S106
+"+Replace this use of System.out by a logger.(¿©8™´°Íù1J$339178eb-b47a-4ec6-810c-5a4dcee1cf40
+r	java:S106"+Replace this use of System.out by a logger.(¸şª§ûÿÿÿÿ8¡¶Íù1J$f20073be-1edc-463d-8694-47b977a090b8
+j
+java:S1481"'Remove this unused "l1" local variable.(‰…¢8ú»¶Íù1J$cae60817-3adf-42d5-9558-8014a777979c
+m	java:S106"+Replace this use of System.out by a logger.(Ïšõ8›Í·Íù1J$a03ddbfd-7e5b-4b4b-b760-b89fd63fa7fa
+r	java:S106"+Replace this use of System.out by a logger.(ı«¶ºúÿÿÿÿ8«‡¹Íù1J$a5d39e31-1bdb-4fad-93f8-49ee4e6ee938
+r	java:S106"+Replace this use of System.out by a logger.(Íñ„Òüÿÿÿÿ8‘¸»Íù1J$59daec9e-f52c-4375-a4ee-1a1abfaf3455

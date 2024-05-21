@@ -1,0 +1,15 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°‹ù÷ÿÿÿÿÿ8¢™€Îù1J$0ad3a79e-27f8-4ba5-b76d-8401a7347471
+
+java:S1854"7Remove this useless assignment to local variable "sum".(ºí¢ÿÿÿÿÿ8×æ‚Îù1J$4978ce70-739f-4154-affb-08eb18db78b9
+}
+java:S1854":Remove this useless assignment to local variable "intVal".(ÓÓÏÌ8§™€Îù1J$4e2325ed-935f-4906-bc1e-7f54a265e856
+~
+java:S1854"6Remove this useless assignment to local variable "i2".(éÏÈ£úÿÿÿÿ8§™€Îù1J$e6ebd213-3f70-4171-ba90-81233e10567f
+o
+java:S1481"'Remove this unused "i2" local variable.(éÏÈ£úÿÿÿÿ8¨™€Îù1J$8cea8279-a3e1-4c8e-ac15-8f14a2fb39ed
+n
+java:S1481"+Remove this unused "intVal" local variable.(ÓÓÏÌ8¨™€Îù1J$2b33b261-aa64-4ac0-9e46-483c964551e0
+m	java:S106"+Replace this use of System.out by a logger.(—Ã²8¥°Îù1J$5eb76063-76b2-4998-b9bf-cf6e836dc31d
+p
+java:S1481"(Remove this unused "sum" local variable.(ºí¢ÿÿÿÿÿ8Ùæ‚Îù1J$a96adfdd-a658-4a24-8c31-f6e10f5fe2ae

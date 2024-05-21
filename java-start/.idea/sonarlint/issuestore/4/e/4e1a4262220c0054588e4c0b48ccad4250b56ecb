@@ -1,0 +1,17 @@
+
+
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ä¾©Î8™ÔÑÏù1J$fd62eec7-4547-439e-bec9-8d1a85d75c4a
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¶›ñË8†óÏù1
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦–İÏÿÿÿÿÿJ$b7f376cd-6ba8-4d6f-a2bb-7d7c23b44258
+c
+java:S2129" Remove this "String" constructor(ÿ¢¶á8ºÀĞÏù1J$6071ab93-a8cf-4fc4-9084-af84b20aceea
+h
+java:S2129" Remove this "String" constructor(ßÚäÃıÿÿÿÿ8¼ÀĞÏù1J$7b9d73b2-9437-44f6-8fb6-72218c7c09c7
+m	java:S106"+Replace this use of System.out by a logger.(Ä¾©Î8¢ÔÑÏù1J$31c4547b-5d65-43d7-b362-d6e73177a5e7
+r	java:S106"+Replace this use of System.out by a logger.(×Ê±Ÿıÿÿÿÿ8¢ÔÑÏù1J$504ed554-2fe6-42d7-8ba5-f4e5e7d206d1
+~	java:S125"<This block of commented-out lines of code should be removed.(Ä¾©Î8¢ÔÑÏù1J$fc2cd281-e1f4-4748-9956-89f781961d53
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(×Ê±Ÿıÿÿÿÿ8£ÔÑÏù1J$287999ee-d959-40f2-83a2-837f6d7ddb1e
+G	java:S106"+Replace this use of System.out by a logger.(¶›ñË8¥†óÏù1
+L	java:S106"+Replace this use of System.out by a logger.(ÏÃº±üÿÿÿÿ8¦†óÏù1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÏÃº±üÿÿÿÿ8¦†óÏù1
